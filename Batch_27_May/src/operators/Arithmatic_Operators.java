@@ -22,8 +22,8 @@ public class Arithmatic_Operators {
 //		 System.out.println(y);
 		 
 		int p = 100;
-		System.out.println(++p);
-		System.out.println(--p);
+		System.out.println(p--);
+		System.out.println(p);
 	
 		 
 		 
